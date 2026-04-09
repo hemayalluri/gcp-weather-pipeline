@@ -11,6 +11,6 @@ terraform {
 }
 
 provider "google" {
-  project = "inspired-cortex-491503-i3" # Replace with your actual Project ID
+  project = "inspired-cortex-491503-i3"
   region  = "us-east1"
 }
